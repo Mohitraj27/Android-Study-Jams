@@ -39,15 +39,13 @@ This application is made using Kotlin in Android Studio where the user can regis
 
   4. displayuser method name  in Summary Activity will display all the details from Main Activity File.
 
-  5. In Resource Manager > Import drawable some background images for both the Summary Activity & Main Activity for better User Interface pf the application.
+  5. In Resource Manager > Import drawable some background images for both the Summary Activity & Main Activity is added for better User Interface.
 
   6.  Array Adapter is used for the list of spinner drop down items.
 
 
 
-![WhatsApp Image 2021-12-31 at 12 56 28 AM](https://user-images.githubusercontent.com/87956374/147782841-76e4686c-3c24-44d6-b2d8-9aa0b20e963a.jpeg)
-
-![WhatsApp Image 2021-12-31 at 12 56 28 AM (1)](https://user-images.githubusercontent.com/87956374/147782815-a975cb50-f2c3-4de2-a3fb-714c4f287c23.jpeg)
+![WhatsApp Image 2021-12-31 at 1 16 00 AM](https://user-images.githubusercontent.com/87956374/147783543-f296e50d-1e01-4b3f-aa1e-fa6fb2fd77f0.jpeg)
 
 
 https://drive.google.com/file/d/11ccOXOzsUO3cQOWor62Ea1NkdUj0YQ-9/view?usp=sharing
