@@ -19,21 +19,21 @@ This application is made using Kotlin in Android Studio where the user can regis
   
   2. Linear Layout is used and a padding of 36dp is given with vertical orientation.
  
-  3. TextView , EditText widget is used  also text color , text size is also made accordingly to improve the User Interface of the app.
+  3. TextView , EditText widget is used  also text color , text size is  made accordingly to improve the User Interface of the app.
  
-  4. Spinner widget will help the user to select his Mr/Mrs etc.. from the dropdown item provided.
+  4. Spinner widget will help the user to select his Mr/Mrs/Dr etc.. from the dropdown item provided.
   
   5. layout width , height , marginTop etc  is used.
    
   6. passwordTogledEnabled is used to view the password.
 
-  7. Android material button is will help the user to create the account.
+  7. Android material button  will help the user to create the account.
   
  In Main Activity and Summary Actvity File 
   
-  1. setonClickListener will link the Main Activity to the Create Account Button in XML File.
+  1. setOnClickListener will link the Main Activity to the Create Account Button in XML File.
   
-  2. setUpSpinner and setUpButton is used.
+  2. setUpSpinner and setUpButton method is used.
 
   3. Intent and startActivity is used to move from one Activity to Another.
 
