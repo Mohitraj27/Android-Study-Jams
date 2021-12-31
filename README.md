@@ -7,41 +7,41 @@ This application is made using Kotlin in Android Studio where the user can regis
 
 ### Functionality :
  
-1. The App opens up like a normal registration portal where the user is required to enter all the details asked to create a account.
+- The App opens up like a normal registration portal where the user is required to enter all the details asked to create a account.
 
-2. After filling all the details the applications moves to another Summary Activity where all the Account details will be shown except the password.
+- After filling all the details the applications moves to another Summary Activity where all the Account details will be shown except the password.
 
 ### Concepts Used :
  
  In Activity Main XML and Activity Summary XML File  
   
-  1. ScrollView will help the user to move the front page of the application up & down.
+  -  ScrollView will help the user to move the front page of the application up & down.
   
-  2. Linear Layout is used and a padding of 36dp is given with vertical orientation.
+  -  Linear Layout is used and a padding of 36dp is given with vertical orientation.
  
-  3. TextView , EditText widget is used  also text color , text size is  made accordingly to improve the User Interface of the app.
+  -  TextView , EditText widget is used  also text color , text size is  made accordingly to improve the User Interface of the app.
  
-  4. Spinner widget will help the user to select his Mr/Mrs/Dr etc.. from the dropdown item provided.
+  -  Spinner widget will help the user to select his Mr/Mrs/Dr etc.. from the dropdown item provided.
   
-  5. layout width , height , marginTop etc  is used.
+  -  layout width , height , marginTop etc  is used.
    
-  6. passwordTogledEnabled is used to view the password.
+  -  passwordTogledEnabled is used to view the password.
 
-  7. Android material button  will help the user to create the account.
+  -  Android material button  will help the user to create the account.
   
  In Main Activity and Summary Actvity File 
   
-  1. setOnClickListener will link the Main Activity to the Create Account Button in XML File.
+  -  setOnClickListener will link the Main Activity to the Create Account Button in XML File.
   
-  2. setUpSpinner and setUpButton method is used.
+  -  setUpSpinner and setUpButton method is used.
 
-  3. Intent and startActivity is used to move from one Activity to Another.
+  -  Intent and startActivity is used to move from one Activity to Another.
 
-  4. displayuser method name  in Summary Activity will display all the details from Main Activity File.
+  -  displayuser method name  in Summary Activity will display all the details from Main Activity File.
 
-  5. In Resource Manager > Import drawable some background images for both the Summary Activity & Main Activity is added for better User Interface.
+  -  In Resource Manager > Import drawable some background images for both the Summary Activity & Main Activity is added for better User Interface.
 
-  6.  Array Adapter is used for the list of spinner drop down items.
+  -   Array Adapter is used for the list of spinner drop down items.
 
 
 
